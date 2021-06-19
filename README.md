@@ -1,7 +1,8 @@
 # Comparacao-de-Algoritmos-de-Ordenacao
 ## Implemente um programa JAVA que realize uma comparação empírica entre vários algoritmos de ordenação.
 ## Requisitos:
-- Seis algoritmos de ordenação deverão ser implementados, dentre eles devem necessariamente estar o Quicksort, Shellsort e Heapsort. A escolha dos outros algoritmos ficará a critério da equipe mas o Bubblesort não deve ser utilizado;
+- Seis algoritmos de ordenação deverão ser implementados, dentre eles devem necessariamente estar o Quicksort, Shellsort e Heapsort.
+- A escolha dos outros algoritmos ficará a critério da equipe mas o Bubblesort não deve ser utilizado;
 
 - O tamanho do array deverá ser fornecido pelo usuário;
 
@@ -19,7 +20,9 @@
 
 ![asd](https://user-images.githubusercontent.com/53881067/122650148-9f265d80-d107-11eb-8f16-3bef833dbe4d.png)
 
-- Além da apresentação do programa, um relatório deverá ser entregue, analisando os resultados obtidos sobre conjuntos de diferentes tamanhos. Neste relatório deverão ser apresentados gráficos de performance e sobretudo uma DISCUSSÃO sobre os resultados, que expliquem os resultados a partir do conceito e características dos algoritmos utilizados. Relatórios que não contenham análises comparativas (posssuam apenas gráficos) receberão nota zero nesse item, que vale 50% da nota.
+- Além da apresentação do programa, um relatório deverá ser entregue, analisando os resultados obtidos sobre conjuntos de diferentes tamanhos.
+- Neste relatório deverão ser apresentados gráficos de performance e sobretudo uma DISCUSSÃO sobre os resultados,
+- que expliquem os resultados a partir do conceito e características dos algoritmos utilizados. Relatórios que não contenham análises comparativas (posssuam apenas gráficos) receberão nota zero nesse item, que vale 50% da nota.
 
 ## Colaboradores:
 [Victor Nemo](https://github.com/victornemo)
