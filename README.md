@@ -7,15 +7,13 @@
 
 - Todos os seis algoritmos deverão ser avaliados igualmente nas seguintes condições:
 
-  -> Conjuntos quase ordenados;
+  ➡ Conjuntos quase ordenados;
 
-  -> Conjuntos totalmente desordenados;
+  ➡ Conjuntos totalmente desordenados;
 
-  -> Conjuntos ordenados em ordem decrescente.
+  ➡ Conjuntos ordenados em ordem decrescente.
 
 - A performance de cada algoritmo deverá ser representada em segundos;
-
-- primeiro(): retorna o primeiro elemento da Fila sem alterá-la.
 
 - A saída do sistema deverá ser da seguinte forma:
 
